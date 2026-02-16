@@ -1,7 +1,6 @@
 import streamlit as st
 with st.sidebar:
-    st.title("📑 Mon Portfolium")
-    
+    st.title("📑 Mon Portfolium") 
     st.markdown("***")
     st.write("📞 CONTACTE")           
     st.write("**Nom :** ALMAMY DIATTA")
