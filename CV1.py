@@ -1,7 +1,6 @@
 import streamlit as st
 with st.sidebar:
     st.title("📑 Mon Portfolium")
-    st.image("photo.jpg")
     
     st.markdown("***")
     st.write("📞 CONTACTE")           
